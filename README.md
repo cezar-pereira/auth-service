@@ -22,7 +22,8 @@
 ---
 
 ## ⬇️ Download APK
-[Download](https://github.com/cezar-pereira/product-firebase/raw/master/apk/app-armeabi-v7a-release.apk).
+           
+[Download](https://github.com/cezar-pereira/auth-service/raw/master/apk/app-armeabi-v7a-release.apk).
 
 ---
 
